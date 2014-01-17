@@ -69,6 +69,10 @@ ul.wysihtml5-toolbar div[data-wysihtml5-command-value="gray"] {
   background: gray !important;
 }
 
+ul.wysihtml5-toolbar div[data-wysihtml5-command-value="white"] {
+  background: #eeeeee !important;
+}
+
 ul.wysihtml5-toolbar div[data-wysihtml5-command-value="maroon"] {
   background: maroon !important;
 }

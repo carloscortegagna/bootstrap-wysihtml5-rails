@@ -11,15 +11,17 @@
 }
 
 .wysiwyg-color-white {
-  color: white;
-}
-
-.wysiwyg-color-maroon {
-  color: maroon;
+  color: #dddddd;
 }
 
 .wysiwyg-color-red {
   color: red;
+}
+
+/* Unused */
+
+.wysiwyg-color-maroon {
+  color: maroon;
 }
 
 .wysiwyg-color-purple {
